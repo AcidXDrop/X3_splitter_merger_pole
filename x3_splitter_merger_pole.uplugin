@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.4",
-	"SemVersion": "1.0.4",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "x3_splitter_merger_pole",
 	"Description": "X3 Splitter / Merger pole, perfect alignment for you splitters and mergers.",
 	"Category": "Modding",
@@ -10,7 +10,7 @@
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://ficsit.app/mod/Dk8o2ZyvnYSVah",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.0.0",
+			"SemVersion": "^3.2.0",
 			"bIsOptional": false,
 			"Enabled": true
 		}
