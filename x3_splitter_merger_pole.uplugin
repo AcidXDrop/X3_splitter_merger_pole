@@ -1,10 +1,10 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
-	"SemVersion": "1.1.1",
-	"FriendlyName": "X3 Splitter / Merger pole",
-	"Description": "X3 Splitter / Merger pole, perfect alignment for you splitters and mergers.",
+	"VersionName": "1.1.2",
+	"SemVersion": "1.1.2",
+	"FriendlyName": "X3 Splitter/Merger pole",
+	"Description": "X3 Splitter/Merger pole, perfect alignment for you splitters and mergers",
 	"Category": "Modding",
 	"CreatedBy": "x3008x, VoxTenebris",
 	"CreatedByURL": "https://github.com/Rick86/X3_splitter_merger_pole",
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.2.0",
+			"SemVersion": "^3.3.0",
 			"bIsOptional": false,
 			"Enabled": true
 		}
